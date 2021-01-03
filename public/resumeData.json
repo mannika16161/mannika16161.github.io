@@ -1,56 +1,25 @@
 {
   "main": {
     "name":"Mannika Garg",
-    "occupation":"Software Developer",
-    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
-    "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
+    "occupation":"Computer Engineer",
+    "description":"I am highly enthusiatic about AI, embedded systems and IoT.",
+    "image":"profilepic.jpeg",
+    "bio":"I'm currently working as a Software Development Engineer at Nua (Lagom Labs), gaining good knowledge of full stack web development. During my undergraduate years I have explored various domains ranging from core elctronics, signal processing, machine learining to software development. My core interest lies in machine learning and IoT. Apart for academics, I love playing table tennis, and actively involve myself community activities. I strongly believe in giving back to the society and I'm very consious about the environment. ",
+    "email": "mannika161@gmail.com",
     "address":{
-      "street":"(Your Street)",
-      "city":"Delhi",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "city":"Delhi NCR"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "resumedownload":"Mannika_CV.pdf",
     "social":[
       {
-        "name":"facebook",
-        "url":"http://facebook.com/tim.baker.906",
-        "className":"fa fa-facebook"
-      },
-      {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
-      },
-      {
-        "name":"google-plus",
-        "url":"http://googleplus.com/tbakerx",
-        "className":"fa fa-google-plus"
-      },
-      {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/mannikagarg/",
         "className":"fa fa-linkedin"
       },
       {
-        "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
-        "className":"fa fa-instagram"
-      },
-      {
         "name":"github",
-        "url":"http://github.com/tbakerx",
+        "url":"https://github.com/mannika16161",
         "className":"fa fa-github"
-      },
-      {
-        "name":"skype",
-        "url":"http://skype.com",
-        "className":"fa fa-skype"
       }
     ]
   },
@@ -58,106 +27,115 @@
     "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Indraprastha Institute of Information Technology Delhi",
+        "degree":"Bachelors in Technology, Major: Electronics and Communication Engineering",
+        "graduated":"August 2020",
+        "description":"During my bachelors I have developed a deep interest in IoT and Machine Learning. I've also organised events and been actively involved in student clubs, sports activities and community service."
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Shaheed Rajpal DAV Public School",
+        "degree":"Higher Secondary School",
+        "graduated":"June 2016",
+        "description":"With great interest in Mathematics and Physics, I did my higher secondary education in science stream and scored an aggregate of 96% in PCM in class 12. I was awared an Academic Excellence award for being the class topper in class 11th. Here, I've also anchored events and was actively involoved in sports activities."
+      },
+      {
+        "school":"Delhi Public School Ghaziabad Vasundhara",
+        "degree":"Secondary School",
+        "graduated":"June 2014",
+        "description":"I was a scholar for 5 consecutive years from classes 6th to 10th for being the class topper. I scored 10 CGPA in class 10th CBSE examinations. Have won various awards for leadership, sports, dance and student clubs. I've also anchored various events. "
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Nua (Lagom Labs)",
+        "title":"Software Development Engineer",
+        "years":"September 2020 - Present",
+        "description":"I am working as a full stack web developer. In order to improve customer retention, I've worked on creating AWS lambdas and cron jobs in Node.js. I've a good experience with Magento and HTML, CSS, Vuejs, Javascript, PHP. Working in a startup has given me confidence of taking up big responsibilities at the early stage of my career."
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"National University of Sigapore",
+        "title":"Intern",
+        "years":"December 2019 - January 2020",
+        "description":"Built a wireless sensor network of radio nodes for prediction and early detection of forest fire. Used Random forest Algorithm for prediction of fire spread and achieved an accuracy of 92.5% on the test data."
+      },
+      {
+        "company":"Bharat Electronics Limited",
+        "title":"Trainee",
+        "years":"December 2018 - January 2019",
+        "description":"Bharat Electronics Limited is an Indian state-owned aerospace and defence company. It primarily manufacture advanced electronic products for the Indian Armed Forces. During the training I understood the concepts of FPGA design, gained hands on experience on VHDL and exposed to the live demonstration of radar system."
+      },
+      {
+        "company":"Techkatech Innovation Hub",
+        "title":"Intern",
+        "years":"June 2018 - August 2018",
+        "description":"Worked on the frontend web development using HTML, CSS, Bootstrap and Javascript on two projects, one is currently being used as food delivery website and the other as Techkatech Innovation Hub’s company website."
       }
+      
     ],
     "skills":[
       {
-        "name":"Git",
+        "name":"C++",
+        "level":"85%"
+      },
+      {
+        "name":"Python",
+        "level":"75%"
+      },
+      {
+        "name":"Java",
         "level":"60%"
       },
       {
-        "name":"Illustrator",
+        "name":"Verilog",
         "level":"55%"
       },
       {
-        "name":"ReactJs",
-        "level":"50%"
+        "name":"MATLAB",
+        "level":"60%"
       },
       {
-        "name":"CSS",
-        "level":"90%"
-      },
-      {
-        "name":"HTML5",
+        "name":"Arduino",
         "level":"80%"
       },
       {
-        "name":"VueJs",
+        "name":"HTML",
         "level":"50%"
       },
       {
-        "name":"MongoDB",
+        "name":"Javascript",
         "level":"80%"
+      },
+      {
+        "name":"Vuejs",
+        "level":"75%"
       }
     ]
   },
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
-      },
-      {
-        "title":"Fury Fighting Gear",
+        "title":"Stress Detection using PPG Signals",
         "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "image":"blank.png",
+        "url":"https://github.com/mannika16161/Stress-Detection-using-Photoplethysmogram"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "title":"HandWash IoT",
+        "category":" IoT based handwash dispenser to remind the user to use hand wash when in close proximity of the water tap and monitor their handwashing compliance",
+        "image":"blank.png",
+        "url":"https://github.com/mannika16161/Handwash_iot"
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"Forest fire detection",
+        "category":"Early detection and prediction of forest fire",
+        "image":"blank.png",
+        "url":"https://github.com/mannika16161/nus_fire_detection"
       },
       {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
-      }
-    ]
-  },
-  "testimonials":{
-    "testimonials":[
-      {
-        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user":"Kareem Abdul Jabbar"
-      },
-      {
-        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user":"Steve Wozniak... impersonator"
+        "title":"Text written in air",
+        "category":"Detects and predicts text wriiten in air.",
+        "image":"blank.png",
+        "url":"https://github.com/mannika16161/IA_Project"
       }
     ]
   }
